@@ -1,6 +1,6 @@
 package guru.spring.framework.sfgpetclinic.model;
 
-public class PetType {
+public class PetType extends  Person{
     private String name;
 
     public String getName() {
